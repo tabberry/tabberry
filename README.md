@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tabberry
+- 👀 I’m interested in making lua scripts for Roblox.
+- 🌱 I’m currently learning lua
+- 💞️ I’m looking for helpers on Aniware.xyz
+- 📫 You can reach me by discord: epic.fortnite.gamer.6996#4626
